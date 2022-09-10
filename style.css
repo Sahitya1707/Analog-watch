@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 .watch {
   height: 92vh;
@@ -204,11 +204,11 @@ body {
     width: 5px;
   }
   .hour {
-    width: 8px;
+    width: 7px;
   }
   .clock {
-    height: 12rem;
-    width: 12rem;
+    height: 14rem;
+    width: 14rem;
   }
   .clock .number {
     font-size: 15px;
