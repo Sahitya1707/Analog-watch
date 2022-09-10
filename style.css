@@ -215,5 +215,6 @@ body {
   }
   .text-footer {
     font-size: 0.5rem;
+    letter-spacing: none;
   }
 }
